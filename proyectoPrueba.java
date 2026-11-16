@@ -6,7 +6,7 @@ public class proyectoPrueba {
 		// TODO Auto-generated method stub
 
 		
-		System.out.print("Hola11");
+		System.out.print("Hola1122");
 		
 		
 	}
